@@ -3,6 +3,8 @@ esnfkesnk
 
 tutaj cos zmienimy
 
+branch
+
 stash
 zmienamy do pulla
 
